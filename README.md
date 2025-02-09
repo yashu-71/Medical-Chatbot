@@ -3,11 +3,11 @@ A health and medical question-answering chatbot designed to provide reliable and
  
 
 Features 
-1.Answers medical and health-related queries 
-2.Provides symptom-based suggestions 
-3.Retrieves medical knowledge using FAISS for better accuracy  
-4.User-friendly chatbot interface  
-5.Expandable & customizable for future improvements  
+1. Answers medical and health-related queries 
+2. Provides symptom-based suggestions 
+3. Retrieves medical knowledge using FAISS for better accuracy  
+4. User-friendly chatbot interface  
+5. Expandable & customizable for future improvements  
 
   
 
@@ -50,8 +50,9 @@ Data Processing and Retrieval
   
 
 Future Enhancements 
-1.Voice-based interactions 
-2.More efficient search and retieval using advanced FAISS tuning 
+1. Voice-based interactions 
+2. More efficient search and retieval using advanced FAISS tuning 
+
 
   
 
